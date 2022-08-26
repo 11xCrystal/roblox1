@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/%40tommy", true))()
+--لتحديد الكل Ctrl+a
+--للنسخ Ctrl+c
+--للصق Ctrl+v
+--made by Tora IsMe
